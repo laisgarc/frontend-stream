@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900&display=swap');
+.fonte {
+    font-family: "Nunito", sans-serif !important;
+}
+
+.nav {
+    background-color: #ce9946;
+    font-weight: 600;
+}
+
+.bodyHome {
+    background-color: #08161f;
+}
+
+.Azul {
+    color: #0b849e;
+    border-color: #0b849e;
+    background-color: #032026;
+}
+
+
+.Vermelho {
+    color:  #be1e37;
+    border-color: #be1e37;
+    background-color: #23050A;
+}
+
+.Torneio {
+    background-color: #08161f;
+}

@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'nevis';
+  src: local('nevis'), url(nevis.ttf) format('truetype');
+}
+
+body {
+  margin: 0;
+  font-family: nevis, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.borderer {
+  border: 1px solid red;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
