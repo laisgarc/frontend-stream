@@ -1,0 +1,18 @@
+{
+    "counter": 0,
+    "blueImage": "TeamImages/empty.png",
+    "blueName": "TEAM 1",
+    "blueShortName": "TM1",
+    "blueScore": "2",
+    "blueSeries": 2,
+    "redImage": "TeamImages/empty.png",
+    "redName": "TEAM 2",
+    "redShortName": "TM2",
+    "redScore": "1",
+    "redSeries": 1,
+    "gameState": null,
+    "tournamentName": "Nome do Torneio",
+    "bestOf": "5",
+    "showScore": "series",
+    "picksTransparente": false
+}
